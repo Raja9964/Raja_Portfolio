@@ -29,7 +29,7 @@ class RajaMohamad:
         self.location = "Bengaluru, India 🇮🇳"
 
         self.education = (
-            "B.Tech Computer Science (AI & ML)"
+            "B.Tech Computer Science and Engineering"
             "\nDayananda Sagar University"
             "\nCGPA : 9.16"
         )
