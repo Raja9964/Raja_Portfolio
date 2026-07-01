@@ -112,7 +112,7 @@ me.say_hi()
 
 # 💼 Experience
 
-## 🏢 Data Engineer Intern — Cuedo Analytics
+## 🏢 Data Engineer Intern at Cuedo Analytics
 
 📍 Bengaluru, India
 
